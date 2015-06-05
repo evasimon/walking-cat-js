@@ -46,8 +46,10 @@ Start with this webpage, which has an img of a cat walking, and JavaScript funct
          </body>
         </html>
       
-Add an event listener to the start button, so that the cat starts moving across the screen when its clicked.
-Add an event listener to the stop button, so that the cat stops moving when clicked.
-Add an event listener to the speed button, so that the cat moves faster when it's clicked.
+1. Add an event listener to the start button, so that the cat starts moving across the screen when its clicked.
+2. Add an event listener to the stop button, so that the cat stops moving when clicked.
+3. Add an event listener to the speed button, so that the cat moves faster when it's clicked.
+
+Bonus: Disable the start/stop/faster buttons at the appropriate times (e.g. the user shouldn't be able to click "stop" if the cat isn't currently moving.)
 
 Fork my solution. Thanks, deva
